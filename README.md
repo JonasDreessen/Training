@@ -7,3 +7,6 @@ just for training
     2. CSS 
     3. JavaScript
     4. Java 
+## Raf Co-op
+Here I am trying to work together with Raf. 
+The goals is to merge our 2 branches in to one. 
