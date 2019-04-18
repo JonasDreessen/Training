@@ -10,3 +10,6 @@ just for training
 ## Raf Co-op
 Here I am trying to work together with Raf. 
 The goals is to merge our 2 branches in to one. 
+
+## Visual code 
+![Visual code logo](screenshot1.png)
